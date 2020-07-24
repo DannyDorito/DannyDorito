@@ -1,13 +1,8 @@
 
-<h1>
+<h1 align="center">
   John Allison
 </h1>
 
-<p>
-    Masters graduate @ University of Hull 🏳️‍🌈
+<p align="center">
+  Actively seeking for jobs!
 </p>
-<style>
-  h1 p {
-    font-family: "Arial"
-  }
-</style>
