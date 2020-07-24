@@ -8,6 +8,7 @@
   <a href="https://imgur.com/Fcwvi9w">
     <img src="https://i.imgur.com/Fcwvi9w.jpg" width="200" title="source: imgur.com" />
   </a>
+  <br>
   <a href="https://twitter.com/JohnAllis0n">
     Twitter
   </a>
