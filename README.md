@@ -8,7 +8,7 @@
 
   <br>
   <a href="https://imgur.com/Fcwvi9w">
-    <img src="https://i.imgur.com/Fcwvi9w.jpg" title="source: imgur.com" />
+    <img src="https://i.imgur.com/Fcwvi9w.jpg" width="100" title="source: imgur.com" />
   </a>
   <h2>
     Look at my snail!🐌
