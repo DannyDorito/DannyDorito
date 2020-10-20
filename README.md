@@ -17,7 +17,7 @@
     LinkedIn
   </a>
   |
-  <a href="https://jallson.co.uk">
+  <a href="https://jallison.co.uk">
     Website
   </a>
 </div>
