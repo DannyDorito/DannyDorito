@@ -1,14 +1,13 @@
 <div style="font-family: Cabin, serif; font-size:14pt; text-align: center; background-color: #f2f3f4; padding: 20px;">
 
-  # John Allison
-
-  #### Look at my snail!🐌
+  <h1 style="text-align: center;">John Allison</h1>
+  <h2 style="text-align: center;">Look at my snail!🐌</h2>
 
   ![Shelly the Snail! 🐌](https://i.imgur.com/Fcwvi9w.jpg=100x)
 
   <br>
 
-  <div style="">
+  <div style="text-align: center;">
     <a href="https://twitter.com/JohnAllis0n">Twitter</a> |
     <a href="https://www.linkedin.com/in/johnallison-/">LinkedIn</a> | <a href="https://jallison.co.uk">Website</a>
   </div>
