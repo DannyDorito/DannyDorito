@@ -1,9 +1,9 @@
 <div style="font-family: Cabin, serif; font-size:14pt; text-align: center; background-color: #f2f3f4; padding: 20px;">
 
   <h1 style="text-align: center;">John Allison</h1>
-  <h2 style="text-align: center;">Look at my snail!🐌</h2>
+  <p style="text-align: center;">Look at my snail!🐌</p>
 
-  ![Shelly the Snail! 🐌](https://i.imgur.com/Fcwvi9w.jpg=100x)
+  <img src="https://i.imgur.com/Fcwvi9w.jpg" width="200" title="Shelly the Snail! 🐌" />
 
   <br>
 
