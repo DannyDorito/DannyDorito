@@ -1,4 +1,4 @@
-<div style="font-family: Cabin, serif; font-size:14pt; text-align: center; background-color: #f2f3f4; padding: 20px;">
+<div style="font-family: Cabin, serif; font-size:14pt; text-align: center; background-color: #f2f3f4; padding: 20px;" align="center">
 
   <h1 style="text-align: center;">John Allison</h1>
   <p style="text-align: center;">Look at my snail!🐌</p>
