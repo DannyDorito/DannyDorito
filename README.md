@@ -1,23 +1,21 @@
-<div align="center">
-  <h1>
-    John Allison
-  </h1>
-  <h2>
-    Look at my snail!🐌
-  </h2>
-  <a href="https://imgur.com/Fcwvi9w">
-    <img src="https://i.imgur.com/Fcwvi9w.jpg" width="200" title="source: imgur.com" />
-  </a>
-  <br>
-  <a href="https://twitter.com/JohnAllis0n">
-    Twitter
-  </a>
-  |
-  <a href="https://www.linkedin.com/in/johnallison-/">
-    LinkedIn
-  </a>
-  |
-  <a href="https://jallison.co.uk">
-    Website
-  </a>
+<link href="style.css" rel="stylesheet"></link>
+<div class="wrapper">
+
+# John Allison
+
+#### Look at my snail!🐌
+
+![Shelly the Snail! 🐌](https://i.imgur.com/Fcwvi9w.jpg=100x)
+
+<br>
+
+<div class="links">
+
+[Twitter](https://twitter.com/JohnAllis0n) | [LinkedIn](https://www.linkedin.com/in/johnallison-/) |
+[Website](https://jallison.co.uk)
+
+</div>
+
+<br>
+
 </div>

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+  text-rendering: optimizeLegibility;
+  font-family: 'Cabin', sans-serif;
+}
+
+.wrapper {
+  font-family: 'Cabin', sans-serif;
+  font-size: 14pt;
+  text-align: center;
+  background-color: #f2f3f4
+}
+
+.links {
+  color: black;
+}
