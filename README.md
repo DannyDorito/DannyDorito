@@ -3,7 +3,7 @@
   <h1 style="text-align: center;">John Allison</h1>
   <p style="text-align: center;">Look at my snail!🐌</p>
 
-  <img src="https://i.imgur.com/Fcwvi9w.jpg" width="200" title="Shelly the Snail! 🐌" />
+  <img src="https://i.imgur.com/Fcwvi9w.jpg" width="300" title="Shelly the Snail! 🐌" />
 
   <br>
 
@@ -11,8 +11,4 @@
     <a href="https://twitter.com/JohnAllis0n">Twitter</a> |
     <a href="https://www.linkedin.com/in/johnallison-/">LinkedIn</a> | <a href="https://jallison.co.uk">Website</a>
   </div>
-
-  <br>
-
-  <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 </div>
