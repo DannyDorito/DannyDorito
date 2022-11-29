@@ -9,7 +9,9 @@
 
   <div style="text-align: center;">
     <a href="https://twitter.com/JohnAllis0n">Twitter</a> |
-    <a href="https://www.linkedin.com/in/johnallison-/">LinkedIn</a> | <a href="https://new.jallison.co.uk">Website</a>
+    <a href="https://instagram.com/JohnAllis0n">Instagram</a> |
+    <a href="https://www.linkedin.com/in/johnallison-/">LinkedIn</a> |
+    <a href="https://new.jallison.co.uk">Website</a> |
   </div>
 
  
