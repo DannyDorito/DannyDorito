@@ -12,7 +12,4 @@
     <a href="https://www.linkedin.com/in/johnallison-/">LinkedIn</a> | <a href="https://new.jallison.co.uk">Website</a>
   </div>
 
-  <br>
-
-  ![John Allison's Github Stats](https://github-readme-stats.vercel.app/api?username=DannyDorito&count_private=true&show_icons=true&title_color=000&icon_color=E22943&text_color=000&bg_color=f2f3f4&hide_border=true)
-</div>
+ 
